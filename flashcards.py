@@ -3,7 +3,6 @@ import pandas
 import random
 from tkinter import messagebox
 BACKGROUND_COLOR = "#B1DDC6"
-
 ### Count Down ###
 timer = None
 def countDown(count, translate):
